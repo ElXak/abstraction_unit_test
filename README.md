@@ -1,6 +1,6 @@
 # abstraction_unit_test
 
-A new Flutter project.
+Usage of Abstraction in Unit Testing with Provider and Mock.
 
 ## Getting Started
 
